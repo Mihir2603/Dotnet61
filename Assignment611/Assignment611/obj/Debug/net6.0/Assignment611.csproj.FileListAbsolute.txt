@@ -1,0 +1,15 @@
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\bin\Debug\net6.0\Assignment611.exe
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\bin\Debug\net6.0\Assignment611.deps.json
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\bin\Debug\net6.0\Assignment611.runtimeconfig.json
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\bin\Debug\net6.0\Assignment611.dll
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\bin\Debug\net6.0\ref\Assignment611.dll
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\bin\Debug\net6.0\Assignment611.pdb
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.csproj.AssemblyReference.cache
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.AssemblyInfoInputs.cache
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.AssemblyInfo.cs
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.csproj.CoreCompileInputs.cache
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.dll
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\ref\Assignment611.dll
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.pdb
+C:\Users\mihir patel\source\repos\Assignment611\Assignment611\obj\Debug\net6.0\Assignment611.genruntimeconfig.cache
